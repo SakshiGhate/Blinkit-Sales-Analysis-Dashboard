@@ -111,8 +111,4 @@ The Blinkit Sales Analysis Dashboard offers comprehensive insights across multip
 *Power BI dashboard showcasing sales trends, outlet metrics, and product insights*
 
 
-## 🚀 How to Use
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/blinkit-sales-dashboard.git
