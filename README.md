@@ -107,7 +107,7 @@ The Blinkit Sales Analysis Dashboard offers comprehensive insights across multip
 
 ## 🖼️ Screenshot
 
-![Blinkit Dashboard](./screenshot.png)  
+![Blinkit Dashboard](https://github.com/SakshiGhate/Blinkit-Sales-Analysis-Dashboard/blob/main/Blinkit%20QuickCommerce%20Performance%20Dashoard.png)  
 *Power BI dashboard showcasing sales trends, outlet metrics, and product insights*
 
 
